@@ -1,3 +1,6 @@
+To login please use user ID = react_admin and password = react_admin
+To run node server use npm run server
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
