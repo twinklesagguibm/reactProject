@@ -83,7 +83,6 @@ h1 {
 }
 
 .formSTyle {
-  border: solid 1px;
   margin-top: 49px;
   background-color: #CC0000;
   height : 500px;
@@ -129,4 +128,15 @@ h1 {
 
   .User {
     background-image: url(./userImage.png);
+  }
+
+  .reuseableRed {
+    width: 150px;
+    height: 150px;
+    background-color: #FF0000;
+  }
+  .reuseableYellow {
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
   }

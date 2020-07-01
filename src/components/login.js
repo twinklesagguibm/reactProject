@@ -107,7 +107,7 @@ export default function Login(props) {
                       className="inputPadding"
                       type="text"
                       name="name"
-                      placeholder="enter name"
+                      placeholder="Enter user id"
                       ref={register({
                         required: "",
                         minLength: { value: 8, message: "Enter correct name" },
@@ -136,7 +136,7 @@ export default function Login(props) {
                       className="inputPadding"
                       type="password"
                       name="password"
-                      placeholder="enter password"
+                      placeholder="Enter user password"
                       ref={register({
                         required: "Enter valid credentials",
                         minLength: { value: 8, message: "TOO SHORT" },
